@@ -10,3 +10,4 @@ Haz click encima y dale a "Download". Ese mismo .zip lo puedes reimportar direct
 ## Lista de flujos disponibles 📄
 
 * [Get More Event Info](https://github.com/Imari91/PowerAutomate-flows/tree/master/AdaptiveCard-Moreinformationonevent) - Flujo que publica una tarjeta adaptable en Teams una vez se ha creado un nuevo evento y se espera hasta que el usuario aprueba los valores del evento.
+* [4 Multiple ways to insert images in adaptive cards] (https://github.com/Imari91/PowerAutomate-flows/tree/master/AdaptiveCard-%20InsertImagesInMultipleWays) - Flujo que inserta imágenes en una tarjeta adaptable en 4 diferentes maneras y las publica en Outlook y Teams.
